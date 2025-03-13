@@ -4,7 +4,7 @@ import pandas as pd
 
 
 @step
-def model_evaluate(df: pdf.DataFrame)->None:
+def model_evaluate(df: pd.DataFrame)->None:
     """
     Evaluation of the model
 
